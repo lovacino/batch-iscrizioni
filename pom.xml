@@ -5,16 +5,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>it.lovacino.iltrotto</groupId>
-  <artifactId>batch-sorteggi-trottoweb</artifactId>
+  <artifactId>batch-iscrizioni</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>batch-sorteggi-trottoweb</name>
+  <name>batch-iscrizioni</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-    <JAR.FINALNAME>batch-sorteggi-trottoweb</JAR.FINALNAME>
+    <JAR.FINALNAME>batch-iscrizioni</JAR.FINALNAME>
     <SELENIUM-VERSION>3.141.59</SELENIUM-VERSION>
     <resteasy.version>3.0.14.Final</resteasy.version>
   </properties>
